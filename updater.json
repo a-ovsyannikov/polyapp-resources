@@ -1,1 +1,23 @@
-
+{
+  "schemaVersion": 1,
+  "ios": {
+    "latestVersion": "1.0.0",
+    "minimumVersion": "1.0.0",
+    "blockedVersions": [],
+    "url": "https://apps.apple.com/app/idXXXXXXXXXX",
+    "releaseNotes": {
+      "ru": "release note test ru",
+      "en": "release note test en"
+    }
+  },
+  "android": {
+    "latestVersion": "1.0.1",
+    "minimumVersion": "1.0.0",
+    "blockedVersions": [],
+    "url": "https://play.google.com/store/apps/details?id=su.ovsyannikov.polyapp",
+    "releaseNotes": {
+      "ru": "release note test ru",
+      "en": "release note test en"
+    }
+  }
+}
